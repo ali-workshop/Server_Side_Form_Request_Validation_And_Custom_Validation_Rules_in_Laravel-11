@@ -1,0 +1,3 @@
+best ref:
+1-https://www.cloudways.com/blog/laravel-validation/#Custom-Validation-Rules
+2-https://laravel.com/docs/11.x/validation#form-request-validation
