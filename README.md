@@ -1,7 +1,7 @@
 
 #Server_Side_Form_Validation_Using_request_validation,custom_validation_rules
 
-Server-side validation, on the other hand(client side ), is the ultimate guardian of data integrity, as it takes place on the server, beyond the user's control. Types of Validation in Laravel: Laravel supports various validation types, including form request validation, custom validation rules, and implicit controller validation
+Server-side validation, on the other hand(hand==client side => ajax ), is the ultimate guardian of data integrity, as it takes place on the server, beyond the user's control. Types of Validation in Laravel: Laravel supports various validation types, including form request validation, custom validation rules, and implicit controller validation
 
 
 ## Authors
